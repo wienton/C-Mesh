@@ -2,7 +2,7 @@
 
 **NO TO RESTRICTIONS // ЗАПРЕТАМ НЕТ**
 
-![C-Mesh Accessor Banner](siski.png)
+![C-Mesh Accessor Banner](mesh.jpg)
 
 ## Описание
 
