@@ -21,8 +21,7 @@ export const defaultWhitelist = [
 export const defaultMappings = {
     'tg.org': 'https://web.telegram.org',
     'yt.be': 'https://youtube.com',
-    // Пример: {хост}: 'https://{оригинальный-хост}'
-    // Реализуется через {host} плейсхолдер в RequestFactory
+
 };
 
 export function loadWhitelist(source = 'default') {

@@ -67,7 +67,6 @@ body {
     min-height: 100%;
 }
 
-/* === HEADER === */
 header {
     display: flex;
     justify-content: space-between;
@@ -114,7 +113,7 @@ header {
     box-shadow: 0 0 15px var(--accent-success);
 }
 
-/* === MAIN TOGGLE === */
+
 .main-toggle {
     display: flex;
     flex-direction: column;
@@ -237,7 +236,6 @@ header {
     pointer-events: all;
 }
 
-/* Universal Mode Row */
 .service-row {
     display: flex;
     align-items: center;
@@ -320,7 +318,6 @@ header {
     background: #fff;
 }
 
-/* Services Grid */
 .services-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -415,7 +412,6 @@ header {
     color: var(--text-primary);
 }
 
-/* === FOOTER === */
 footer {
     padding-top: 16px;
     margin-top: auto;
@@ -430,13 +426,12 @@ footer {
     letter-spacing: 1px;
 }
 
-/* === UTILS === */
 ::selection {
     background: var(--accent-primary);
     color: #fff;
 }
 
-/* Smooth scroll for service panel */
+
 .services-panel {
     overflow-y: auto;
     padding-right: 4px;
