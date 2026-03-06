@@ -2,7 +2,9 @@
 
 **NO TO RESTRICTIONS // ЗАПРЕТАМ НЕТ**
 
-![C-Mesh Accessor Banner](mesh.jpg)
+![C-Mesh Accessor Banner](assets/mesh.jpg)
+
+![C-Mesh Accessor Banner](assets/mem.jpg)
 
 ## Описание
 
