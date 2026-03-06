@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "C-Mesh Accessor",
+    "version": "2.1",
+    "description": "Minimalist proxy control. No restrictions. // Запретам НЕТ.",
+    "permissions": [
+        "proxy",
+        "storage",
+        "tabs",
+        "webRequest"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "C-Mesh Accessor",
+        "default_icon": {
+            "16": "proxy.png",
+            "48": "proxy.png",
+            "128": "proxy.png"
+        }
+    },
+    "icons": {
+        "16": "proxy.png",
+        "48": "proxy.png",
+        "128": "proxy.png"
+    }
+}

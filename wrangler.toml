@@ -1,0 +1,10 @@
+name = "c-mesh-proxy"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+# Переменные окружения
+
+[[rules]]
+type = "ESModule"
+globs = ["**/*.js"]
